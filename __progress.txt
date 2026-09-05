@@ -22,11 +22,11 @@
 /components/text	1/1	0/0	2026-06-23T06:12:31.965Z
 /micro_build_ai	1/1	0/0	2026-07-10T11:18:19.919Z
 /micro_build_ai/help-lucky	1/1	0/0	2026-07-11T21:39:02.068Z
-/tutorial101	3/3	0/0	2026-08-10T16:43:35.324Z
+/tutorial101	4/4	0/0	2026-09-05T20:12:05.741Z
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-05T19:29:29.353Z
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	2/2	0/0	2026-09-05T20:01:22.367Z
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-05T20:01:53.492Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/_setup	1/1	0/0	2026-08-25T14:55:27.123Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/join	1/1	0/0	2026-08-01T19:22:58.067Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/00_welcome	2/2	0/0	2026-08-05T19:32:47.230Z
-crc 43364760
+crc 8528f0c1
